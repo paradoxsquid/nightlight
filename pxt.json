@@ -1,9 +1,10 @@
 {
-    "name": "nightlight1",
+    "name": "nightlight",
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.3"
     },
     "files": [
         "main.blocks",
